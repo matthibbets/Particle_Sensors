@@ -17,6 +17,7 @@
 #define LSM303_DEBUG
 */
 
+#include "Adafruit_Sensor.h"
 #include "Adafruit_LSM303_U.h"
 
 static float _lsm303Accel_MG_LSB     = 0.001F;   // 1, 2, 4 or 12 mg per lsb
