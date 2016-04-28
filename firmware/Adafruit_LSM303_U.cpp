@@ -17,6 +17,8 @@
 #define LSM303_DEBUG
 */
 
+#define ARDUINO 100
+
 #include "Adafruit_Sensor.h"
 #include "Adafruit_LSM303_U.h"
 
