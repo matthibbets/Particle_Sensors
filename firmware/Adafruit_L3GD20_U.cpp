@@ -19,6 +19,8 @@
  PRIVATE FUNCTIONS
  ***************************************************************************/
 
+#include "Adafruit_L3GD20_U.h"
+
 /**************************************************************************/
 /*!
     @brief  Abstract away platform differences in Arduino wire library
