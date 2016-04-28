@@ -1,3 +1,4 @@
+#include "Unified_Sensors/Adafruit_Sensor.h"
 #include "Unified_Sensors/Adafruit_LSM303_U.h"
 
 Adafruit_LSM303_Accel_Unified accel;
