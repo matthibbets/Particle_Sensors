@@ -1,0 +1,7 @@
+{
+  "name": "Unified_Sensors",
+  "author": "Matt Thompson @inet_ntoa",
+  "license": "Adafruit",
+  "version": "0.0.1",
+  "description": "Adafruit Unified Sensors for Particle"
+}
