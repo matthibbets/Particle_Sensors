@@ -13,8 +13,6 @@
   BSD license, all text above must be included in any redistribution
  ***************************************************************************/
 
-#include "Adafruit_LSM303_U.h"
-
 /* enabling this #define will enable the debug print blocks
 #define LSM303_DEBUG
 */
